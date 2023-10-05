@@ -1,2 +1,2 @@
 # MOCOLNet: A Momentum Contrastive Learning Network for Multimodal Aspect-Level Sentiment Analysis
-The code of MOCOLNet will be released in the future.
+The source code will be available afte the corresponding paper (Under Review Now) is accepted.
